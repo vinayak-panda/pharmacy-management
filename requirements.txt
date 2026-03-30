@@ -1,6 +1,6 @@
-Flask==3.0.0
+Flask==2.3.3
 Flask-SQLAlchemy==3.1.1
 reportlab==4.0.7
 Werkzeug==3.0.1
-SQLAlchemy==2.0.23
+SQLAlchemy==2.0.25
 gunicorn==21.2.0
